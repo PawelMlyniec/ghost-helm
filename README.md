@@ -1,5 +1,5 @@
 # ghost-helm
-Ghost blog running as a Kubernetes application managed by Helm chart.
+Ghost blog running as a Kubernetes application managed by Helm chart, by Paweł Młyniec, Wojciech Wrzesień, Michał Górski
 
 # Getting started
 ## Clone
